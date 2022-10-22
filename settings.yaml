@@ -1,12 +1,12 @@
 telegram:
-  token: 5692033143:AAGaxQGJf_LKURS3011Vcql_xAoKdJO8Dvo # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
+  token: Dvo # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
   useFirstNameInsteadOfUsername: false
   colonAfterSenderName: false
   skipOldMessages: true
   sendEmojiWithStickers: true
 discord:
   useNickname: false
-  token: MTAzMzEyNzI3MzY0NzMxMjk4Ng.GlGnTy.yyiRI3wATYCpO8ng-moXSTkf7Xooqky7GGTlfQ # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
+  token: CpO8ng-moXSTkf7Xooqky7GGTlfQ # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
   skipOldMessages: true
   replyLength: 100
   maxReplyLines: 2
